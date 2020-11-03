@@ -1,0 +1,16 @@
+{
+    "name": "yomraliahmet/phpapi",
+    "type": "project",
+    "description": "The Basic Php Api",
+    "authors": [
+        {
+            "name": "Ahmet YILDIRIM",
+            "email": "ahmetyildirim@live.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
